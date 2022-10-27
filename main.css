@@ -1,0 +1,17 @@
+.bg-image {
+    width: auto;
+    background-image: url('./img/earth.jpg');
+    height: 80vh;
+    color: aliceblue;
+    text-align: center;
+    height: 65vh;
+    width: 119%;
+}
+
+.bg-image2 {
+    background-image: url('./img/earth.jpg');
+    height: 80vh;
+    color: aliceblue;
+    height: 65vh;
+    width: 119%;
+}
